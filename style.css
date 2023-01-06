@@ -58,6 +58,8 @@ body{
 .card img{
     border-collapse: separate;
     border-radius: 10px;
+    width: 100%;
+    height: auto;
 }
 h1{
     color: hsl(218, 44%, 22%);
